@@ -1,12 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import {
-  FaFacebook,
-  FaGithub,
-  FaLinkedin,
-  FaInstagram,
-  FaEnvelope,
-} from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   // Icon animation variant

@@ -13,7 +13,7 @@ import todo from "../assets/todo.PNG";
 import eatzy from "../assets/eatzy.PNG";
 
 import Travenzo from "../assets/Travenzo.png";
-import Hci from "../assets/HCI.PNG";
+import Hci from "../assets/hci.png";
 
 const projects = [
   {

@@ -11,8 +11,9 @@ import foodly from "../assets/Food_ordering_app.png";
 import techfeed from "../assets/techfeed.PNG";
 import todo from "../assets/todo.PNG";
 import eatzy from "../assets/eatzy.PNG";
-import travelo from "../assets/Travelo.PNG";
+
 import Travenzo from "../assets/Travenzo.png";
+import Hci from "../assets/HCI.PNG";
 
 const projects = [
   {
@@ -29,13 +30,13 @@ const projects = [
     image: Travenzo,
     link: "https://www.figma.com/design/uyopfeZqVmjcF9Nb39jBNh/travel-managment?node-id=0-1&t=lI51qvf4T0yhjdzn-1",
   },
-  // {
-  //   id: 3,
-  //   name: "Travelo – Travel Website",
-  //   tech: "Figma",
-  //   image: travelo,
-  //   link: "https://www.figma.com/design/fbJZGHM4gK2GKiD6IWkspG/Travelo?node-id=0-1&t=vj8asxLhT1yHRN0j-1",
-  // },
+  {
+    id: 3,
+    name: "Online Student Services Portal",
+    tech: "Figma",
+    image: Hci,
+    link: "https://www.figma.com/design/aoVRH6YWBCC5AnngQ3sD12/HCI-assignment?node-id=0-1&t=AGKXqVx2LLouKAaX-1",
+  },
   // {
   //   id: 4,
   //   name: "Eatzy – Food Ordering Mobile App",

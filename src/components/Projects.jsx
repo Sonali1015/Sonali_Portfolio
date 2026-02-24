@@ -11,10 +11,10 @@ import foodly from "../assets/Food_ordering_app.png";
 import techfeed from "../assets/techfeed.PNG";
 import todo from "../assets/todo.PNG";
 import eatzy from "../assets/eatzy.PNG";
-
+import resturant from "../assets/resturant.png";
 import Travenzo from "../assets/Travenzo.png";
 import Hci from "../assets/hci.png";
-
+import clothing from "../assets/clothing.png";
 const projects = [
   {
     id: 1,
@@ -37,20 +37,20 @@ const projects = [
     image: Hci,
     link: "https://www.figma.com/design/aoVRH6YWBCC5AnngQ3sD12/HCI-assignment?node-id=0-1&t=AGKXqVx2LLouKAaX-1",
   },
-  // {
-  //   id: 4,
-  //   name: "Eatzy – Food Ordering Mobile App",
-  //   tech: "Figma",
-  //   image: eatzy,
-  //   link: "https://www.figma.com/design/5YJVBRMbyoEIqcYXQm3CBh/Eatzy-Food-App?node-id=0-1&t=M1zXn4ExTTUmklWr-1",
-  // },
-  // {
-  //   id: 5,
-  //   name: "Library Management System",
-  //   tech: "HTML / CSS / JS / PHP / MySQL",
-  //   image: LMSImage,
-  //   link: "https://github.com/Chamaracperera/LMS.git",
-  // },
+  {
+    id: 4,
+    name: "Resturant Website Design",
+    tech: "Figma",
+    image: resturant,
+    link: "https://www.figma.com/design/H5QudOtPusLsatzRYAeHlH/hotel-view?node-id=8-4&t=haggxS05tnIyhP4t-1",
+  },
+  {
+    id: 5,
+    name: "Clothing Store Website",
+    tech: "HTML / CSS / JS ",
+    image: clothing,
+    link: "https://github.com/Sonali1015/Simple-Homepage-Website-.git",
+  },
   // {
   //   id: 6,
   //   name: "QR Based Attendance Marking System",
